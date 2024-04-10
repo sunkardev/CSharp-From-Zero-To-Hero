@@ -9,7 +9,7 @@ namespace BootCamp.Chapter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("fefewf");
+            Console.WriteLine("fefwertf");
         }
     }
 }
